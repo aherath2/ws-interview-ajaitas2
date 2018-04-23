@@ -5,3 +5,11 @@ String result = add("12345", "4512");
 \# result = 16857  
 
 When you finish implementation, what is the runtime order?
+
+def add(string1, string2)
+  int carry = 0
+  for (int i = 1; i <= string1.length; i++){
+    for (int j = 1; j <= string2.length; j++){
+      
+    }
+  }
